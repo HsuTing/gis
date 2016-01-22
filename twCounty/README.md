@@ -12,6 +12,8 @@
 (your link)/twCounty/
 ```
 
+- For example, if you use `http://localhost:8000/twCounty/10018001/`, you will get geojson of `新竹市`.
+
 ## Key and Value Table
 
 Key      | Value
