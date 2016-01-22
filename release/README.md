@@ -7,6 +7,6 @@
 
 ## List
 
-App name | Source code | File      | README
+App name | Source code | File      | Readme
 ---------|-------------|-----------|---------------
-twCounty | [code](https://github.com/HsuTing/gis/tree/data/twCounty) | [twCounty.tar.gz](https://hsuting.github.io/gis/release/twCounty.tar.gz) | [README](https://github.com/HsuTing/gis/tree/data/twCounty#twcounty)
+twCounty | [code](https://github.com/HsuTing/gis/tree/data/twCounty) | [twCounty.tar.gz](https://hsuting.github.io/gis/release/twCounty.tar.gz) | [Readme](https://github.com/HsuTing/gis/tree/data/twCounty#twcounty)
