@@ -1,5 +1,7 @@
 # TwCounty
 
+`geojson` of Taiwan County in 2010.
+
 ## Get data
 
 - Get one data:
