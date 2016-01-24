@@ -9,5 +9,5 @@
 
 App name | Source code | File      | Readme
 ---------|-------------|-----------|---------------
-twCounty | [code](https://github.com/HsuTing/gis/tree/data/twCounty) | [twCounty.tar.gz](https://hsuting.github.io/gis/release/twCounty.tar.gz) | [Readme](https://github.com/HsuTing/gis/tree/data/twCounty#twcounty)
-twTown | [code](https://github.com/HsuTing/gis/tree/data/twTown) | [twTown.tar.gz](https://hsuting.github.io/gis/release/twTown.tar.gz) | [Readme](https://github.com/HsuTing/gis/tree/data/twTown#twtown)
+twCounty | [code](https://github.com/HsuTing/gis/tree/data/twCounty) | [twCounty.tar.gz](https://hsuting.github.io/gis/release/twCounty.tar.gz) | [Readme](https://github.com/HsuTing/gis/blob/data/twCounty/README.md)
+twTown | [code](https://github.com/HsuTing/gis/tree/data/twTown) | [twTown.tar.gz](https://hsuting.github.io/gis/release/twTown.tar.gz) | [Readme](https://github.com/HsuTing/gis/blob/data/twTown/README.md)
